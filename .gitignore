@@ -1,0 +1,4 @@
+# NetBeans derleme ciktilari ve kisisel ayarlar
+**/build/
+**/dist/
+**/nbproject/private/
